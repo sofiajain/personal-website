@@ -2,15 +2,64 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "personal-website",
+    "title": "Sofia Jain",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2\n\n\n\nrunif(10)\n\n [1] 0.23916570 0.11279094 0.46004219 0.01770376 0.10313459 0.30965167\n [7] 0.34601173 0.87522608 0.65540070 0.52205032"
+    "text": "I am a senior at UCLA, majoring in Statistics & Data Science with a Minor in Mathematics. I am planning to pursue a Masters in Data Science following my undergrad. You can learn more about me from my Resume"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "personal-website",
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Sofia Jain",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA BS in Data Science and Statistics | Minor in Mathematics | Sept 2021 - Mar 2025"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Sofia Jain",
+    "section": "Experience",
+    "text": "Experience\nAcademy College Prep | Data Science Intern | June 2024 - Sep 2024\nData Journalist | Bruin Sports Analytics | 2023 - 2024\nLawler Showjumping / Meadowgrove Farm | Assistant Horse Trainer | Jun 2020 - Jul 2021"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Sofia Jain",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 3\n\n[1] 4"
+    "text": "Project 1\nProject 2\nCoco Gauff’s 2023 Breakthrough\nSuperior Sinner: Jannik Sinner’s Dominant Start to 2024\nRecognizing Brandon Aiyuk’s Growth as a Wide Receiver and His 2023 Success"
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Sofia Jain",
+    "section": "",
+    "text": "Project 1\nProject 2\nCoco Gauff’s 2023 Breakthrough\nSuperior Sinner: Jannik Sinner’s Dominant Start to 2024\nRecognizing Brandon Aiyuk’s Growth as a Wide Receiver and His 2023 Success"
+  },
+  {
+    "objectID": "projects/Article3.html",
+    "href": "projects/Article3.html",
+    "title": "Article 3",
+    "section": "",
+    "text": "https://www.bruinsportsanalytics.com/post/brandon-aiyuk)"
+  },
+  {
+    "objectID": "projects/Article2.html",
+    "href": "projects/Article2.html",
+    "title": "Article 2",
+    "section": "",
+    "text": "https://www.bruinsportsanalytics.com/post/superior-sinner)"
+  },
+  {
+    "objectID": "projects/Article1.html",
+    "href": "projects/Article1.html",
+    "title": "Article 1",
+    "section": "",
+    "text": "https://www.bruinsportsanalytics.com/post/coco-breakthrough"
+  },
+  {
+    "objectID": "Courses.html",
+    "href": "Courses.html",
+    "title": "Courses",
+    "section": "",
+    "text": "Relevant courses taken"
   }
 ]
