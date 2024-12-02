@@ -5,11 +5,11 @@ website:
   title: "Sofia Jain"
   navbar:
     left:
-      - href: about.qmd
+      - href: index.qmd
         text: About
       - href: projects.qmd
         text: Projects
-      - href: courses.qmd
+      - href: Courses.qmd
         text: Courses
   page-footer: 
     right: "&copy; 2024, Sofia Jain"

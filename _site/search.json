@@ -25,41 +25,48 @@
     "href": "projects.html",
     "title": "Sofia Jain",
     "section": "",
-    "text": "Project 1\nProject 2\nCoco Gauff’s 2023 Breakthrough\nSuperior Sinner: Jannik Sinner’s Dominant Start to 2024\nRecognizing Brandon Aiyuk’s Growth as a Wide Receiver and His 2023 Success"
+    "text": "Title\nLink\n\n\n\n\nCoco Gauff’s 2023 Breakthrough\nRead Here\n\n\nSuperior Sinner: Jannik Sinner’s Dominant Start to 2024\nRead Here\n\n\nRecognizing Brandon Aiyuk’s Growth as a Wide Receiver and His 2023 Success\nRead Here"
+  },
+  {
+    "objectID": "projects.html#publications",
+    "href": "projects.html#publications",
+    "title": "Sofia Jain",
+    "section": "",
+    "text": "Title\nLink\n\n\n\n\nCoco Gauff’s 2023 Breakthrough\nRead Here\n\n\nSuperior Sinner: Jannik Sinner’s Dominant Start to 2024\nRead Here\n\n\nRecognizing Brandon Aiyuk’s Growth as a Wide Receiver and His 2023 Success\nRead Here"
   },
   {
     "objectID": "projects.html#projects",
     "href": "projects.html#projects",
     "title": "Sofia Jain",
-    "section": "",
-    "text": "Project 1\nProject 2\nCoco Gauff’s 2023 Breakthrough\nSuperior Sinner: Jannik Sinner’s Dominant Start to 2024\nRecognizing Brandon Aiyuk’s Growth as a Wide Receiver and His 2023 Success"
-  },
-  {
-    "objectID": "projects/Article3.html",
-    "href": "projects/Article3.html",
-    "title": "Article 3",
-    "section": "",
-    "text": "https://www.bruinsportsanalytics.com/post/brandon-aiyuk)"
-  },
-  {
-    "objectID": "projects/Article2.html",
-    "href": "projects/Article2.html",
-    "title": "Article 2",
-    "section": "",
-    "text": "https://www.bruinsportsanalytics.com/post/superior-sinner)"
-  },
-  {
-    "objectID": "projects/Article1.html",
-    "href": "projects/Article1.html",
-    "title": "Article 1",
-    "section": "",
-    "text": "https://www.bruinsportsanalytics.com/post/coco-breakthrough"
+    "section": "Projects",
+    "text": "Projects\n\n\n\nTitle\nLink\n\n\n\n\nStats 101A Final Project\nRead Here\n\n\nStats 101B Final Project\nRead Here\n\n\nStats 101C Final Project\nRead Here\n\n\nMath 42 Final Project\nRead Here"
   },
   {
     "objectID": "Courses.html",
     "href": "Courses.html",
     "title": "Courses",
     "section": "",
-    "text": "Relevant courses taken"
+    "text": "Relevant courses taken:\nMath\n\nMath 42: Introduction to Data-Driven Mathematical Modeling: Life, Universe, and Everything\n\nIntroduction to data-driven mathematical modeling combining data analysis with mechanistic modeling of phenomena from various applications. Topics include model formulation, data visualization, nondimensionalization and order-of-magnitude physics, introduction to discrete and continuous dynamical systems, and introduction to discrete and continuous stochastic models. Examples drawn from many fields and practice problems from Mathematical Contest in Modeling.\n\nMath 115A: Linear Algebra\n\nTechniques of proof, abstract vector spaces, linear transformations, and matrices; determinants; inner product spaces; eigenvector theory. \n\nMath 118: Mathematical Methods of Data Theory\n\nIntroduction to computational methods for data problems with focus on linear algebra and optimization. Matrix and tensor factorization, PageRank, assorted other topics in matrices, linear programming, unconstrained optimization, constrained optimization, integer optimization, dynamic programming, and stochastic optimization.\n\nMath 131A: Real Analysis\n\nRigorous introduction to foundations of real analysis; real numbers, point set topology in Euclidean space, functions, continuity.\n\nMath 164: Optimization\n\nFundamentals of optimization. Linear programming: basic solutions, simplex method, duality theory. Unconstrained optimization, Newton method for minimization. Nonlinear programming, optimality conditions for constrained problems. Additional topics from linear and nonlinear programming.\n\nMath 170E: Introduction to Probability and Statistics 1: Probability\n\nIntroduction to probability theory with emphasis on topics relevant to applications. Topics include discrete (binomial, Poisson, etc.) and continuous (exponential, gamma, chi-square, normal) distributions, bivariate distributions, distributions of functions of random variables (including moment generating functions and central limit theorem). \n\nMath 170S: Introduction to Probability and Statistics 2: Statistics\n\nIntroduction to statistics. Topics include sampling, estimation (maximum likelihood and Bayesian), properties of estimators, regression, confidence intervals, hypotheses testing, analysis of variance. \n\nMath 174E: Mathematics of Finance for Mathematics/Economics Students\n\nMathematical modeling of financial securities in discrete and continuous time. Forwards, futures, hedging, swaps, uses and pricing (tree models and Black-Scholes) of European and American options, Greeks and numerical methods.\n\n\n\n\nStatistics\n\nStats 21: Python and Other Technologies for Data Science\n\nCovers use of Python and other technologies for data analysis and data science. Focus on programming with Python and selection of its libraries: NumPy, pandas, matplotlib, and scikit-learn, for purpose of data processing, data cleaning, data analysis, and machine learning. Other technologies covered include Jupyter notebook and Git. Intended for Data Theory majors as introduction to Python language and libraries most frequently used in data science.\n\nStats 100C: Linear Models\n\nTheory of linear models, with emphasis on matrix approach to linear regression. Topics include model fitting, extra sums of squares principle, testing general linear hypothesis in regression, inference procedures, Gauss/Markov theorem, examination of residuals, principle component regression, stepwise procedures.\n\nStats 101A: Introduction to Data Analysis and Regression\n\nApplied regression analysis, with emphasis on general linear model (e.g., multiple regression) and generalized linear model (e.g., logistic regression). Special attention to modern extensions of regression, including regression diagnostics, graphical procedures, and bootstrapping for statistical influence.\n\nStats 101B: Introduction to Design and Analysis of Experiment\n\nFundamentals of collecting data, including components of experiments, randomization and blocking, completely randomized design and ANOVA, multiple comparisons, power and sample size, and block designs.\n\n*Stats 101C: Introduction to Statistical Models and Data Mining\n\nApplied regression analysis, with emphasis on general linear model (e.g., multiple regression) and generalized linear model (e.g., logistic regression). Special attention to modern extensions of regression, including regression diagnostics, graphical procedures, and bootstrapping for statistical influence.\n\nStats 102A: Introduction to Computational Statistics with R\n\nIntroduction to computational statistics through numerical methods and computationally intensive methods for statistical problems. Topics include statistical graphics, root finding, simulation, randomization testing, and bootstrapping. Covers intermediate to advanced programming with R.\n\nStats 102B: Introduction to Computation and Optimization for Statistics\n\nIntroduction to computational methods and optimization useful for statisticians. Use of computer programming to solve statistical problems. Topics include vector/matrix computation, multivariate normal distribution, principal component analysis, clustering analysis, gradient-based optimization, EM algorithm for missing data, and dynamic programming.\n\n*Stats 102C: Introduction to Monte Carlo Methods\n\nIntroduction to Markov chain Monte Carlo (MCMC) algorithms for scientific computing. Generation of random numbers from specific distribution. Rejection sampling and importance sampling and their roles in MCMC. Markov chain theory and convergence properties. Metropolis and Gibbs sampling algorithms. Extensions as simulated tempering. Theoretical understanding of methods and their implementation in concrete computational problems.\n\nStats 140XP: Practice of Statistical Consulting\n\nOpportunity to solve real data analysis problems for real community-based or campus-based clients. Students work in small groups with faculty member and client to frame client’s question in statistical terms, create statistical model, analyze data, and report results. Weekly meetings in classroom setting to study basic consulting skills, share experiences, exchange ideas, and make reports. On-site visits as necessary. \n\n\nOther\n\nPic 10A: Introduction to Programming\n\nBasic principles of programming, using C++; algorithmic, procedural problem solving; program design and development; basic data types, control structures and functions; functional arrays and pointers; introduction to classes for programmer-defined data types."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sofia Jain",
+    "section": "",
+    "text": "I am a senior at UCLA, majoring in Statistics & Data Science with a Minor in Mathematics. I am planning to pursue a Masters in Data Science following my undergrad. You can learn more about me from my Resume"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Sofia Jain",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA BS in Data Science and Statistics | Minor in Mathematics | Sept 2021 - Mar 2025"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Sofia Jain",
+    "section": "Experience",
+    "text": "Experience\nAcademy College Prep | Data Science Intern | June 2024 - Sep 2024\nData Journalist | Bruin Sports Analytics | 2023 - 2024\nLawler Showjumping / Meadowgrove Farm | Assistant Horse Trainer | Jun 2020 - Jul 2021"
   }
 ]

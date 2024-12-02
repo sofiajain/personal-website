@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,65 +66,7 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-project-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-project-listing'] = new List('listing-project-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -149,7 +89,7 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
@@ -157,7 +97,7 @@ window.Quarto = {
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./courses.qmd"> 
+    <a class="nav-link" href="./Courses.html"> 
 <span class="menu-text">Courses</span></a>
   </li>  
 </ul>
@@ -178,63 +118,65 @@ window.Quarto = {
 
 
 
+<section id="publications" class="level2">
+<h2 class="anchored" data-anchor-id="publications">Publications</h2>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Title</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Coco Gauff’s 2023 Breakthrough</td>
+<td><a href="https://www.bruinsportsanalytics.com/post/coco-breakthrough">Read Here</a></td>
+</tr>
+<tr class="even">
+<td>Superior Sinner: Jannik Sinner’s Dominant Start to 2024</td>
+<td><a href="https://www.bruinsportsanalytics.com/post/superior-sinner">Read Here</a></td>
+</tr>
+<tr class="odd">
+<td>Recognizing Brandon Aiyuk’s Growth as a Wide Receiver and His 2023 Success</td>
+<td><a href="https://www.bruinsportsanalytics.com/post/brandon-aiyuk">Read Here</a></td>
+</tr>
+</tbody>
+</table>
+</section>
 <section id="projects" class="level2">
 <h2 class="anchored" data-anchor-id="projects">Projects</h2>
-<p><a href="./projects/01-project.html">Project 1</a></p>
-<p><a href="./projects/02-project.html">Project 2</a></p>
-<p><a href="./projects/Article1.html">Coco Gauff’s 2023 Breakthrough</a></p>
-<p><a href="./projects/Article2.qmd.qmd">Superior Sinner: Jannik Sinner’s Dominant Start to 2024</a></p>
-<p><a href="./projects/Article3.html">Recognizing Brandon Aiyuk’s Growth as a Wide Receiver and His 2023 Success</a></p>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Title</th>
+<th>Link</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Stats 101A Final Project</td>
+<td><a href="./101a.pdf">Read Here</a></td>
+</tr>
+<tr class="even">
+<td>Stats 101B Final Project</td>
+<td><a href="./101b.pdf">Read Here</a></td>
+</tr>
+<tr class="odd">
+<td>Stats 101C Final Project</td>
+<td><a href="./101c.pdf">Read Here</a></td>
+</tr>
+<tr class="even">
+<td>Math 42 Final Project</td>
+<td><a href="./m42.pdf">Read Here</a></td>
+</tr>
+</tbody>
+</table>
 <hr>
-<div class="project-listing">
-
-</div>
-
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-table" id="listing-project-listing">
-<table class="quarto-listing-table table">
-<thead>
-<tr>
-<th>
-Title
-</th>
-</tr>
-</thead>
-<tbody class="list">
-<tr data-index="0" data-listing-file-modified-sort="1733176323721" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Project 1" data-listing-filename-sort="01-project.qmd">
-<td>
-<a href="./projects/01-project.html" class="title listing-title">Project 1</a>
-</td>
-</tr>
-<tr data-index="1" data-listing-file-modified-sort="1733176270155" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Project 2" data-listing-filename-sort="02-project.qmd">
-<td>
-<a href="./projects/02-project.html" class="title listing-title">Project 2</a>
-</td>
-</tr>
-<tr data-index="2" data-listing-file-modified-sort="1733176307431" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Article 1" data-listing-filename-sort="Article1.qmd">
-<td>
-<a href="./projects/Article1.html" class="title listing-title">Article 1</a>
-</td>
-</tr>
-<tr data-index="3" data-listing-file-modified-sort="1733176286263" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Article 2" data-listing-filename-sort="Article2.qmd">
-<td>
-<a href="./projects/Article2.html" class="title listing-title">Article 2</a>
-</td>
-</tr>
-<tr data-index="4" data-listing-file-modified-sort="1733176279306" data-listing-reading-time-sort="1" data-listing-word-count-sort="1" data-listing-title-sort="Article 3" data-listing-filename-sort="Article3.qmd">
-<td>
-<a href="./projects/Article3.html" class="title listing-title">Article 3</a>
-</td>
-</tr>
-</tbody>
-</table>
-<div class="listing-no-matching d-none">
-No matching items
-</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

@@ -1,1 +1,34 @@
 
+---
+title: "Sofia Jain"
+toc: false
+about:
+  template: jolla
+  image: profile.png
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/sofiajain/
+    - icon: linkedn
+      text: LinkedIn
+      href: https://www.linkedin.com/in/sofia-jain/
+    - text: Email
+      url: 'sofiasjain@gmail.com'
+---
+
+I am a senior at UCLA, majoring in Statistics & Data Science with a Minor in Mathematics. I am planning to pursue a Masters in Data Science following my undergrad. You can learn more about me from my [Resume](/ResumeWebsite.pdf) 
+
+## Education
+
+University of California, Los Angeles | Los Angeles, CA
+BS in Data Science and Statistics | Minor in Mathematics | Sept 2021 - Mar 2025
+
+## Experience
+
+Academy College Prep | Data Science Intern | June 2024 - Sep 2024
+
+Data Journalist | 
+Bruin Sports Analytics | 2023 - 2024
+
+Lawler Showjumping / Meadowgrove Farm | 
+Assistant Horse Trainer | Jun 2020 - Jul 2021

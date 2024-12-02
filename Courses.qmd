@@ -2,4 +2,86 @@
 title: Courses
 ---
 
-Relevant courses taken
+Relevant courses taken:
+
+Math
+
+-   **Math 42**: Introduction to Data-Driven Mathematical Modeling: Life, Universe, and Everything
+
+    -   Introduction to data-driven mathematical modeling combining data analysis with mechanistic modeling of phenomena from various applications. Topics include model formulation, data visualization, nondimensionalization and order-of-magnitude physics, introduction to discrete and continuous dynamical systems, and introduction to discrete and continuous stochastic models. Examples drawn from many fields and practice problems from Mathematical Contest in Modeling.
+
+-   **Math 115A**: Linear Algebra
+
+    -   Techniques of proof, abstract vector spaces, linear transformations, and matrices; determinants; inner product spaces; eigenvector theory. 
+
+-   **Math 118**: Mathematical Methods of Data Theory
+
+    -   Introduction to computational methods for data problems with focus on linear algebra and optimization. Matrix and tensor factorization, PageRank, assorted other topics in matrices, linear programming, unconstrained optimization, constrained optimization, integer optimization, dynamic programming, and stochastic optimization.
+
+-   **Math 131A**: Real Analysis
+
+    -   Rigorous introduction to foundations of real analysis; real numbers, point set topology in Euclidean space, functions, continuity.
+
+-   **Math 164**: Optimization
+
+    -   Fundamentals of optimization. Linear programming: basic solutions, simplex method, duality theory. Unconstrained optimization, Newton method for minimization. Nonlinear programming, optimality conditions for constrained problems. Additional topics from linear and nonlinear programming.
+
+-   **Math 170E**: Introduction to Probability and Statistics 1: Probability
+
+    -   Introduction to probability theory with emphasis on topics relevant to applications. Topics include discrete (binomial, Poisson, etc.) and continuous (exponential, gamma, chi-square, normal) distributions, bivariate distributions, distributions of functions of random variables (including moment generating functions and central limit theorem). 
+
+-   **Math 170S**: Introduction to Probability and Statistics 2: Statistics
+
+    -   Introduction to statistics. Topics include sampling, estimation (maximum likelihood and Bayesian), properties of estimators, regression, confidence intervals, hypotheses testing, analysis of variance. 
+
+-   **Math 174E**: Mathematics of Finance for Mathematics/Economics Students
+
+    -   Mathematical modeling of financial securities in discrete and continuous time. Forwards, futures, hedging, swaps, uses and pricing (tree models and Black-Scholes) of European and American options, Greeks and numerical methods.
+
+\
+
+Statistics
+
+-   **Stats 21**: Python and Other Technologies for Data Science
+
+    -   Covers use of Python and other technologies for data analysis and data science. Focus on programming with Python and selection of its libraries: NumPy, pandas, matplotlib, and scikit-learn, for purpose of data processing, data cleaning, data analysis, and machine learning. Other technologies covered include Jupyter notebook and Git. Intended for Data Theory majors as introduction to Python language and libraries most frequently used in data science.
+
+-   **Stats 100C**: Linear Models
+
+    -   Theory of linear models, with emphasis on matrix approach to linear regression. Topics include model fitting, extra sums of squares principle, testing general linear hypothesis in regression, inference procedures, Gauss/Markov theorem, examination of residuals, principle component regression, stepwise procedures.
+
+-   **Stats 101A**: Introduction to Data Analysis and Regression
+
+    -   Applied regression analysis, with emphasis on general linear model (e.g., multiple regression) and generalized linear model (e.g., logistic regression). Special attention to modern extensions of regression, including regression diagnostics, graphical procedures, and bootstrapping for statistical influence.
+
+-   **Stats 101B**: Introduction to Design and Analysis of Experiment
+
+    -   Fundamentals of collecting data, including components of experiments, randomization and blocking, completely randomized design and ANOVA, multiple comparisons, power and sample size, and block designs.
+
+-   **\*Stats 101C**: Introduction to Statistical Models and Data Mining
+
+    -   Applied regression analysis, with emphasis on general linear model (e.g., multiple regression) and generalized linear model (e.g., logistic regression). Special attention to modern extensions of regression, including regression diagnostics, graphical procedures, and bootstrapping for statistical influence.
+
+-   **Stats 102A**: Introduction to Computational Statistics with R
+
+    -   Introduction to computational statistics through numerical methods and computationally intensive methods for statistical problems. Topics include statistical graphics, root finding, simulation, randomization testing, and bootstrapping. Covers intermediate to advanced programming with R.
+
+-   **Stats 102B**: Introduction to Computation and Optimization for Statistics
+
+    -   Introduction to computational methods and optimization useful for statisticians. Use of computer programming to solve statistical problems. Topics include vector/matrix computation, multivariate normal distribution, principal component analysis, clustering analysis, gradient-based optimization, EM algorithm for missing data, and dynamic programming.
+
+-   **\*Stats 102C**: Introduction to Monte Carlo Methods
+
+    -   Introduction to Markov chain Monte Carlo (MCMC) algorithms for scientific computing. Generation of random numbers from specific distribution. Rejection sampling and importance sampling and their roles in MCMC. Markov chain theory and convergence properties. Metropolis and Gibbs sampling algorithms. Extensions as simulated tempering. Theoretical understanding of methods and their implementation in concrete computational problems.
+
+-   **Stats 140XP**: Practice of Statistical Consulting
+
+    -   Opportunity to solve real data analysis problems for real community-based or campus-based clients. Students work in small groups with faculty member and client to frame client's question in statistical terms, create statistical model, analyze data, and report results. Weekly meetings in classroom setting to study basic consulting skills, share experiences, exchange ideas, and make reports. On-site visits as necessary. 
+
+Other
+
+-   **Pic 10A**: Introduction to Programming
+
+    -   Basic principles of programming, using C++; algorithmic, procedural problem solving; program design and development; basic data types, control structures and functions; functional arrays and pointers; introduction to classes for programmer-defined data types.
+
+\
